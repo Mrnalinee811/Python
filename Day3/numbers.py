@@ -1,0 +1,9 @@
+print(10 + 3)
+print(10 - 3)
+print(10 * 3)
+print(10 / 3)
+print(10 // 3)
+print(10 % 3)
+
+name = input('Enter your name: ')
+print('Hello ' + name)
