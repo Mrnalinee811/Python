@@ -1,0 +1,10 @@
+num1 = float(input('Enter first number: '))
+num2 = float(input('Enter second number: '))
+num3 = float(input("Enter third number: "))
+
+print('Addition: ' + str(num1 + num2))
+print('Subtraction: ' + str(num1 - num2))
+print('Multiplication: ' + str(num1 * num2))
+print('Division: ' + str(num1 / num2))
+print("divide:" + str(num1 / num2))
+print("Addition: " + str(num1 + num2 + num3))
