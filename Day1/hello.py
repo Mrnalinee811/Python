@@ -1,0 +1,6 @@
+print('Hello World')
+print('Mrnalinee')
+print('22')
+print('Boston')
+print('cooking')
+print('data engineer')
