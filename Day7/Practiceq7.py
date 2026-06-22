@@ -38,8 +38,8 @@
 #     print(name,"scored",subjects["science"])
 
 # print like:  Aman - math: 85, science: 90
-# for name, subjects in students.items():
-#     print(name,"- math:",subjects["math"],"science:",subjects["science"])
+for name, subjects in students.items():
+    print(name,"- math:",subjects["math"],"science:",subjects["science"])
     
 # N4 — add "english": 75 to Riya, then print Riya's full dict
 
@@ -52,9 +52,9 @@ students = {
 # print(students)
 
 # N5 — print like:  Aman total: 175
-# for name,subjects in students.items():
-#     total=subjects["math"]+subjects["science"]
-#     print(name,"total:",total)
+for name,subjects in students.items():
+    total=subjects["math"]+subjects["science"]
+    print(name,"total:",total)
     
 # N6 — print every student with each subject on its own line:
 # Aman

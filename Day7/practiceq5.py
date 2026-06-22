@@ -1,9 +1,9 @@
 #Q1: Create a dictionary of 3 students and their marks, then print each one.
 
-# students = {"Aarav": 85, "Priya": 90, "Rahul": 78}
-# for name, marks in students.items():
-#     print(name, marks)
-# print(students.items)
+students = {"Aarav": 85, "Priya": 90, "Rahul": 78}
+for name, marks in students.items():
+    print(name, marks)
+print(students.items)
 
 
 
